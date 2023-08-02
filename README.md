@@ -13,7 +13,7 @@
 ## 系统模块结构
 
 ``` lua
-paycore
+payaccounting
 ├── pay-accounting-api -- 支付结算服务接口
 ├── pay-accounting-base -- 支付结算服务基础支持
 ```
